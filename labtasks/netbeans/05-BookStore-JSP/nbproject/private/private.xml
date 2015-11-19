@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/src/java/ro/pub/cs/aipi/lab05/businesslogic/CategoryManager.java</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/web/administrator.jsp</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/web/client.jsp</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/src/java/ro/pub/cs/aipi/lab05/businesslogic/BookPresentationManager.java</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/src/java/ro/pub/cs/aipi/lab05/businesslogic/BookManager.java</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/src/java/ro/pub/cs/aipi/lab05/helper/Record.java</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/src/java/ro/pub/cs/aipi/lab05/dataaccess/DatabaseOperations.java</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/src/java/ro/pub/cs/aipi/lab05/dataaccess/DatabaseException.java</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/src/conf/MANIFEST.MF</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/src/java/ro/pub/cs/aipi/lab05/businesslogic/InvoiceHeaderManager.java</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/src/java/ro/pub/cs/aipi/lab05/businesslogic/CountryManager.java</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/src/java/ro/pub/cs/aipi/lab05/businesslogic/FormatManager.java</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/src/java/ro/pub/cs/aipi/lab05/businesslogic/UserManager.java</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/web/login.jsp</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/src/java/ro/pub/cs/aipi/lab05/general/Utilities.java</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/src/java/ro/pub/cs/aipi/lab05/businesslogic/SupplyOrderLineManager.java</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/src/java/ro/pub/cs/aipi/lab05/dataaccess/DatabaseOperationsImplementation.java</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/src/java/ro/pub/cs/aipi/lab05/businesslogic/InvoiceLineManager.java</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/src/java/ro/pub/cs/aipi/lab05/businesslogic/EntityManager.java</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/web/WEB-INF/web.xml</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/src/java/ro/pub/cs/aipi/lab05/general/Constants.java</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/src/java/ro/pub/cs/aipi/lab05/businesslogic/WriterManager.java</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/src/java/ro/pub/cs/aipi/lab05/businesslogic/SupplyOrderHeaderManager.java</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/web/META-INF/context.xml</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/src/java/ro/pub/cs/aipi/lab05/servlets/LoginServlet.java</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/src/java/ro/pub/cs/aipi/lab05/servlets/AdministratorServlet.java</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/src/java/ro/pub/cs/aipi/lab05/helper/Referrence.java</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/src/java/ro/pub/cs/aipi/lab05/businesslogic/CollectionManager.java</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/src/java/ro/pub/cs/aipi/lab05/businesslogic/PublishingHouseManager.java</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/src/java/ro/pub/cs/aipi/lab05/servlets/ClientServlet.java</file>
+            <file>file:/D:/Personal/aipi2015/laboratoare/laborator05/cod_sursa/rezolvate/netbeans/05-BookStore-JSP/src/java/ro/pub/cs/aipi/lab05/businesslogic/LanguageManager.java</file>
+        </group>
+    </open-files>
+</project-private>
